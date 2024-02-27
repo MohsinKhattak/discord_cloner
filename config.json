@@ -1,0 +1,1574 @@
+{
+   "token": "MTE5NjQ3MTUzNTA5MTg1NTM2MA.GyVzXw.XtdWH5C6Tt3pe3vavWmOXhBWlkyAZ7OZSJRh0M", 
+   "status": "online",
+   "mirrors": [
+      {
+         "use_webhook_profile": true,
+         "comment": "Trades",
+         "channel_ids": [
+            "1026446497212006432"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1208491762331680868/BolzYAsH-C-dzI6a8BNEo-CZ6juHTU5yi7tdfyxa-mCrj13_5qte4svkoi7UXUu6lGCF" 
+         ]
+        
+      },
+      {
+         "use_webhook_profile": true,
+         "comment": "Active Futures",
+         "channel_ids": [
+            "1026446663746867240"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1208497341661712506/QkdVNLUL7-W8lEt2XZnvkNFJI4c1Vn3_nPmt8tX7qsXYv_Jc75YukQu5NZ17gB4SKkzZ" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "Active Spot",
+         "channel_ids": [
+            "1026446692964384849"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1208498145869430796/05_y4VmNIhc-unKdybwvk54vhtTYcYEmZ6cJc2r3QgmNNimv9p5gQukdTe8hIKK55oiA" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "Long Term",
+         "channel_ids": [
+            "1147554345810935939"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1208498530680049694/st1EsoidczmAeD3VOKqdG3JGd_wQAbC4NoW9aXSqFafm9xw3l4Jrhiar1Ey7_MxeIvL" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "Active Alerts",
+         "channel_ids": [
+            "1026446563972743229"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1208498806510063646/SeYcueEXIyd_0v4WVKMR1tnshOpLhnzqQEmeJ2_SGe0LlXfnpg1m8KJAnDztWrqVXSGd" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "Active Questions",
+         "channel_ids": [
+            "1026446421643251752"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1208506761598730353/3gT89Bibln5t2lsHSzuLRIkTQyg5XUrqU6yrbm-Swtdn0zqI1DReL4F49iQ-gBduepWf" 
+         ]
+        
+      },{
+         "use_webhook_profile": true,
+         "comment": "john 1k 10k",
+         "channel_ids": [
+            "1026446672773009418"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1208507301707784242/8lzmNZTlnQTa4bkEB70UsptTdywL3mLsgCayVUA9D5WOaOTppL1-duIgeLu2IlO92Ekj" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "Eliz 1k 100k spot",
+         "channel_ids": [
+            "1026446583128137758"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208507732810793031/ps_GGkOvdoT3sYTG2UP9tN-usmXBMUsgfDP-cbF_hbZ47cK3W-fptW3PB0P-q240hnDj" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "Eliz 1k 10k lev",
+         "channel_ids": [
+            "1035547697685475448"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208508273804976129/_XhihF_o_WYaH1DYVUolwKUEUXgrV4fYQmrrBQRAh5p-82DiP6msZM1O3jOMvsWY8GCJ" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "hbj 1k 10k spot",
+         "channel_ids": [
+            "1051102834889863198"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208510469829173328/wkGLElYi1TQmSzgwrglfq79WHxr9_Kn3ERWpkzL1q_-4c10nOcPLOc5g-FwzHnn3cn0U" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "hbj lev scalp",
+         "channel_ids": [
+            "1135615087193899089"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208510989922865193/tvkEvS92hH2j9hlLYzv1ToAjz6TVdGJRWfMGRml7XQSyYex5sdqO6q82YQ9DI2R661q4" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "rezeh",
+         "channel_ids": [
+            "1026446413057495080"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208511263395684382/_fqmeCmhhcyBmDDQOe0kTKPW2NhXjrrNlDwXIMRdOk7eDadPqru4dBvgK11Ha0OjC1Hn" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "woods scalp",
+         "channel_ids": [
+            "1027710308443246623"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208511532976054342/XyOXnj5KuotQcR8uEzaC48dKFjBNFakRa_Cj8FqOYnLFaVO4S6viaTxbXQ1WVrqdW5nV" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "impulse 1k 10k",
+         "channel_ids": [
+            "1185707606032011264"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208511919988809838/cjSaufUe51pxoJrWPiDnW5OQ-3hgtBkJMx0bQmVcGt8dIEnhm8rkh9OUDJnwpMOIsRDs" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "tareeq 1k plan",
+         "channel_ids": [
+            "1193999359109496934"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208512311468236820/avwieLHv0YS5g41s_O4T_Iek_f2M2HjcTPZ3ig0rPEs4Sj_QhM2UYOI4iMvaki7Mw4Do" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "tareeq 1k 1m",
+         "channel_ids": [
+            "1195472540894760991"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208512718529888327/3hoyHKz6Fb8NdQjaNrGS6cBDPUDoPYbVmkt6USWzMy1Ew6uIWCIzgkHTn13_OB2bzEZS" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "nick 1k 100k",
+         "channel_ids": [
+            "1198967998170529892"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208513078594109460/_U9HuDuHq1CoH431y4LoybldFo6gHRYa7B9icEQegTGfOBJ2ONJkoMADnuV4dpwpEtB6" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "bryce 1k 10k lev",
+         "channel_ids": [
+            "1201609369574457444"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208513446790823986/QhMaABbz0-FOhJkesaeCuPDQa7oqc1QlpEydSJu-Sskck0iKHP5CV77SmbjeHTMnh4un" 
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "courses",
+         "channel_ids": [
+            "1053352601946693703"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208518616220172439/Vs-1h1f3yof0fVvx5Y0XIskHVBeeu5BLZ0AOSVLBUmoilTB53pqi2K9vlsq4R_dY-Zdn" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "learning",
+         "channel_ids": [
+            "1053352711938130022"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208519000489984021/vA6vkse4PQ3jpLTdQEiXOr-RYIJRkwRyIXei4O9qfAEDsRWUFGUqD7oXJ2plqfbQTQd7" 
+         
+         ]
+        
+      }
+
+      ,{
+         "use_webhook_profile": true,
+         "comment": "the plan",
+         "channel_ids": [
+            "1055228634694164502"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208519292170014770/petAf_i_U_8WrQi61VJf-UM3JNHNGkTQjYhiYin1hfu8_flgJ1i1HV-pkmxAn14WpWTd" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "stream videos",
+         "channel_ids": [
+            "1147554480720715826"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208521388613312522/oKEAOCjEid7odHY4wbRCpDsXD5u4mRNpZbQ1K3gc7IOhGqLhgZ7DxsJaVMy1znR_LtbV" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "general",
+         "channel_ids": [
+            "1026446996359352380"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208524291751018506/wVGZ7qY4HhmgkfJjnfBakmBxhmhyFjsY1tcA_bb0PDPOMnPBgHZpKPzf1wcWEMTueVvS" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "chart ideas",
+         "channel_ids": [
+            "1026446683799822386"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208533799152132096/qio7xoACllzCsNZDJnlZh6sRJKr1YskkzeP8aDO60Cz3Sl707bPWZ0TtGBb5qmdSxFrF" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "twitter",
+         "channel_ids": [
+            "1047110402565210212"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208534035475730482/2wryMCy1dOcnt1uw9u4O5nbu0OXxKEuq8CkNDaoa57gvLBLNUahbOlMGX9zVaE6azsSs" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "edu orderflow",
+         "channel_ids": [
+            "1062670122038341672"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208534231228219392/ugBOidUxc0bY8rWPP--4ndaxM_XC_yAp-unSKRFQX_uzbIXTZNYw6ENsFwx3VmVryucG" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "orderflow",
+         "channel_ids": [
+            "1065574721413972058"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208534583189045348/k01NW1bcad2D9-2BAq_QkxnxeCmNkfRN44Kyt9NuyVkm3TYy-OG5er0iqYKkJ5EBe8jL" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "gems",
+         "channel_ids": [
+            "1088859238559924254"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208534920872464424/wursYvsOpDg6cdI0iUQLAHNtSB8KAVZzoNWcm4uT7vEv8CLt-1yBxzI5JXZbGLJZ6qAE" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "live stream chat",
+         "channel_ids": [
+            "1071414850607128637"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208535293276323881/CtlNqeEQ_VQoA-uksUJHgtTtMZueFlo28sJaYhiettmZeNveRvuu_HIq_zBaQOno3zAo" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "stocks",
+         "channel_ids": [
+            "1159643859316391986"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208535582561669130/9spyfVQTDpmFx2Tu-nwrtWIsjE4eHnh9kKJd2EQ18E526TmKBjUhtzcFUhVZQALvyGDq" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "degen",
+         "channel_ids": [
+            "1103036064693764167"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208829658385092708/ELkpNWwQQ8IV6DDl_fyAhyXTQo-YqRq2zu0iYDhO1a_mhpG4YJig3gKDxaElkImknHtT" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "mod trades",
+         "channel_ids": [
+            "1139662703397453975"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208830067686379590/IFFN5B4cGNpBinPWxHPnkZC3VBd6dvYKbOylRrojmgubU7RvLj6GhbjZZP9o8Q_S5V3W" 
+         
+         ]
+        
+      } ,{
+         "use_webhook_profile": true,
+         "comment": "guides",
+         "channel_ids": [
+            "1139662724465426532"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208830798392991854/_kPFeuH8MOfOyNOwUrsqOdAWTsNhRnJZ4CVTRNcjLWGZnCYPA0P2Q3LxtlAjhPSXbpfO" 
+         
+         ]
+        
+      },{
+         "use_webhook_profile": true,
+         "comment": "members play",
+         "channel_ids": [
+            "1146863632819425291"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208831092891717753/P1yvT-Rko0Kos-91_qV4v7RV0UN-PxUf1BCwbuUaO_jFA5XPhRGgjNd3cnvdgkEEQS04" 
+         
+         ]
+        
+      },{
+         "use_webhook_profile": true,
+         "comment": "impulse db",
+         "channel_ids": [
+            "1170095142242373774"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208831108397924444/l0G7nCqgdP5IY5rgX0joZXkn8GzPTXqr0KediJA4o7bnf24PueeBCLuWjCHHJ91lPZzz" 
+         
+         ]
+        
+      },{
+         "use_webhook_profile": true,
+         "comment": "air drops",
+         "channel_ids": [
+            "1182431762610139238"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208831766501261332/DQn4_iievpsuDklsMRc2XwS9hyit-a0eddj6pLVdMyjrQR-0Ct1jG_YFI_o0E8i-mo8m" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "Sports bet",
+         "channel_ids": [
+            "1205896465940226049"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208832049276911627/uCGEtMOuwAjzOqFtrEQ1E0DVE71gDATikb_sUGNkHKHTvmQrS4UjdQp_uCg3Xs4pr24K" 
+         
+         ]
+        
+      },{
+         "use_webhook_profile": true,
+         "comment": "chamellion Sports bet",
+         "channel_ids": [
+            "1205896532792971305"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208832304294666343/2QzGkyx_l8gG7OCz2-pN8IFqYSsRNYD09lOhqRC2zGNEpcL9nAvSjUOIlXDV_01QVzxT" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "jhonny",
+         "channel_ids": [
+            "1026446400206143589"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208833045453475881/k5I4Edp_5y4qpZvdO30_diOWNV4nXBHMzJbYKx_24msurdwPFNiv_CQnslMGg-b2VV6z" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "eli",
+         "channel_ids": [
+            "1026446456674078762"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208833256745865306/sCNM52P_v9EHBzh-2dgSoU6qS3789_szWxu_aTAnIF7n6Qd3BxFZHR-lltZ8yRUY2NRv" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "woods",
+         "channel_ids": [
+            "1026446611884290048"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208833448186351746/Li36p2CP0UXNe3guYaMWTo75Zsyj507nIx87zjrZ2wGRIzvjbCm3lBtak9eeJ0oYdLnr" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "michele",
+         "channel_ids": [
+            "1026446478610276412"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208833658241417246/01m1LRwZc4s1yLDOZyL-0KFoUyk9JxMfVW9YMxzLU6dmbWF7ZgUS-5H_F-kd02whmkYp" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "hbj",
+         "channel_ids": [
+            "1026446591869063238"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208833854660542474/uq0ZoEvzV2eA3slAQHeAjnOPakZS46ZaCLHJ2LVqmBT8NtVbFl0lZQrakABK-IuP8343" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "nick",
+         "channel_ids": [
+            "1179109839046193212"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208834059665670295/3L29wS0pw-_oDvTysy6mMvU5oaWcoFyYZuZuab8QyFWbjQjRdDm-894Oe4BYAyqv6Swi" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "rego",
+         "channel_ids": [
+            "1026446447576616962"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208834726950080603/0Q_gaR5Uk3x1-23l6hsGRJhPAuC7pHrKlCX7VsJ-EEdk7JaGuBjVL9l3MHcgAnyjMtTD" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "pat",
+         "channel_ids": [
+            "1026471728534269952"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208834922580541501/pC00HKYvNwvlFjD3prQFCl7chktih1sWRRT8PbOgvlI2dEsh1jhlpcq5ymx5K1xqY0L1" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "rezeh",
+         "channel_ids": [
+            "1026446621023686690"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208868516044734546/2yl_xaItI_Gbq6WQ7dFo6iF06eYpM0epXI8tjN0gLUldMZq0nRFdThpbxvzeTzTLnljM" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "tareeq",
+         "channel_ids": [
+            "1026446573342818334"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208868790713192558/Fxc8f1_ZgxZChHasPbqmN_z2zyPuNy_SiG9kduM_fIVdfiq4HgL5LGZATntFMrGw0gXM" 
+         
+         ]
+        
+      } ,{
+         "use_webhook_profile": true,
+         "comment": "pocky",
+         "channel_ids": [
+            "1084908409733783572"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208869078283067392/71ofjJP9sH5YU7NVfxa5QVitzg4RZta-95O1FQ84AMC6e6Sg4AlecKesBfzhtAxY7nik" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "cry art",
+         "channel_ids": [
+            "1142327639047147612"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208869400204279869/7MXy8IEA7WC38IPKdLK8N4xfB8GTuleeZe5OTjYTC2ryKw2Uv0PRMHiIOn3v1dXvSPG7" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "impulse",
+         "channel_ids": [
+            "1168936595181801603"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208869626944163942/TwEkPNIhhplY90kfmesC7mkpawwSgsKfm5f3tVESR6S5xrmtKI0Gmnu0C36nhF21UNhg" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "bryce",
+         "channel_ids": [
+            "1161292006195208232"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208869856573915226/10dQz-VEXqKleKTh9z5sAhz89g6iFsL-UrBHljbkPjx-Kyut6WAzIdMo7dd_ZSk363iN" 
+         
+         ]
+        
+      } ,{
+         "use_webhook_profile": true,
+         "comment": "draco",
+         "channel_ids": [
+            "1084909007631831040"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208871341101416468/gyZJosSFeJWJmnjCWwzUgddAr6XK3852uV3srysJZzFuhzvrW1RnMr8oVy8B6FOv5ZQ0" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "cypher 1x",
+         "channel_ids": [
+            "1171943810616533143"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208871791284723773/AD3ZdY-rqVLitsTedzekon5PpiYm-T7AFltM8_ZElYvSPRvgpxApJFJ30qOviHXnpIiF" 
+         
+         ]
+        
+      } ,{
+         "use_webhook_profile": true,
+         "comment": "muzgin",
+         "channel_ids": [
+            "1175494429621104801"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208871964610007040/1F_R4wKcYn1IRqZK0Ay-Hf1kFGZohR1ePK6btFH-aI5fTpqcQE8N6u4wRDf1ZxqnTE3c" 
+         
+         ]
+        
+      } ,{
+         "use_webhook_profile": true,
+         "comment": "mouse",
+         "channel_ids": [
+            "1180247398342209577"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208872160547049472/Uwt0zzsuJqVJ5xRQyjXLeleNhHKVmb92GR2b82EZ9oDuA_B6hFqUAqpddyjaCZupnhus" 
+         
+         ]
+        
+      } ,{
+         "use_webhook_profile": true,
+         "comment": "blaw",
+         "channel_ids": [
+            "1180247421733851207"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208872358337847326/U-O_c7dWpnORPZVsPzSJRvE2o0FQP-FZSrJT5Au-k3alO7juNCkUO6nXp7JE5m0W-GBK" 
+         
+         ]
+        
+      } ,{
+         "use_webhook_profile": true,
+         "comment": "mayne haven",
+         "channel_ids": [
+            "1097132566252883978"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208873709046341672/Vt1CjqMo-yEHLi1HJ2tkldvRK390gpiG5qnwhhJPp3epDlgJz3XhaHOme0F_5eDGpLmX" 
+         
+         ]
+        
+      } ,{
+         "use_webhook_profile": true,
+         "comment": "tradeideas charts mayne",
+         "channel_ids": [
+            "1097132691780026378"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208873992023314512/E9uj9WKDpcQeq5rCc2rDvv0E_U6qD4Skcu8B91bDLQLfhUxW4I-IvHTPcdOjDRfGa_hu" 
+         
+         ]
+        
+      },{
+         "use_webhook_profile": true,
+         "comment": "mayne threads",
+         "channel_ids": [
+            "1125413592724938862"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208874218901602334/_gVKKpnIN1WdUx20L1OoBazmblv6BlruHggrePw_ik99M1lA-EmtRpz2cDW-e8yaegvB" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "px principal",
+         "channel_ids": [
+            "1054370188641976451"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208874418860986479/6rEW6IfpR8vNQsAIb2yZrh1RFf7DCJYA1iZw1uMXOs4Euy1e1tD-_oyl3cZywbfimEiE" 
+         
+         ]
+        
+      },{
+         "use_webhook_profile": true,
+         "comment": "jimtal",
+         "channel_ids": [
+            "1060130267404177408"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208874657663557672/SLEOovnCfPId9pEgL7GK2p-5zRT4Q7KFPFuN1DxQC9LQfOTJJnTxSGJM09euOzFaFtvt" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "stream summaries",
+         "channel_ids": [
+            "1071571370875568138"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208874877046624329/-qt8V5qfMVYV9ax9TZ1ZRhSEg8cOQJo9j-fyRh8Dt7eCQwdYzck7YAo7vFV_y2U0R5la" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "analyst videos",
+         "channel_ids": [
+            "1091708086009462915"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208875096358391879/GMiy3yEk8bKdTZ8K2d1bNwdMheNX4hs8y35rFMktzEQzAvkziKY00Vkd7bBrPpwXkxlm" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "haven discussion",
+         "channel_ids": [
+            "1097211364197539890"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208875301501665361/1TTW7WMSIWBL124uyKCkFBIJi5dEzsWt6BTzEqIEoubYSTSQN7rlnVfDq4auLqcg41-5" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "haven member charts",
+         "channel_ids": [
+            "1146862602463477810"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208875611918176376/4wC2FRflpcyrtvHqmB6rhY792ljtVgQAWstvIT72uRdMXKAOD5h2gaqXHrQ_e2KDVNQC" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "members questions",
+         "channel_ids": [
+            "1146863036435546134"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208875857146552442/jXYkgOwCtFiGQ-5PGaeqy5iAT_9enLwlTCkJx-YZxTuQVZjFhiKzD39UJoB4-xLSLGnH" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "haven degan",
+         "channel_ids": [
+            "1146863194560798862"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208876052827480137/OEREEY126Jx3odCbLP9Eb-DrRXq1sQP6ELjDQ1D0ECyrBMakyzMEYfG-Fugx9x6Cp-Om" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "haven loma",
+         "channel_ids": [
+            "1042910888388214824"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208877734235869194/au4Z3jZYQyCZi-EEaqu3vBKjUOD7eyHtmSYPd1JtkNOsJSXOrYOD8shtKelKngZpjKHi" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "loma updates",
+         "channel_ids": [
+            "1091708817173119057"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208877964591235142/1SAS_eemtSwCG68CWPMasqem_REob-eG455PF_iLL0Guvj5WvkvEtx61aYLGClHjvLZY" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "loma education",
+         "channel_ids": [
+            "1097196881563623466"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208878161064894534/tKMTLGfTwD3aJfZSBl-51R3viOeDOSRMVeczBuP8PBXUfra2k2sqpbZJ47bvPdYpRCuF" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "haven krillin",
+         "channel_ids": [
+            "1042911426240581632"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208879569029824532/xqi6-xYTFb258p0jIPZRuD3eV3eN0Fb3EHcHAM7xeg94-nMOUbsnkhjVdBnAh6NdAyA-" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "krillin trades",
+         "channel_ids": [
+            "1092900368880504892"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208880048292241450/U7THmLFCfiTkSer8V58fcPA4E47FMDp9YfkVt8FjKSq-V7R_lDENzN30gpdJl-OCviSj" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "charts krillin",
+         "channel_ids": [
+            "1097201640077017199"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208880508117983254/Jd8z3FDq6ptE2aPGaqh9yT2fJagOXRoPUmEu3TmvSVe9c4fX66L6JuJ6okdU23ApnFlY" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "threads alts",
+         "channel_ids": [
+            "1097202159403155476"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208881004601675838/fKBxSSGWRamZTR9QZT60wZTHr2p-l1wfgK5nw0sZjXymql6g4Bak7Ko9aF1FAlaC7h6D" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "krillin education",
+         "channel_ids": [
+            "1097203086243680386"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208881219560017950/3yL_BI9sOYKHtox7aBNMoDDaKxpwbJOVJ67jqcdXAhSKy8bDy8fxRi01XS3ZYT7meq2y" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "haven ub",
+         "channel_ids": [
+            "1042911817707552768"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208881426657968200/3BokA0W0loSlnYO-G-NWJiZMIyrdkwYc_w7VGge1M-be0Ck0sTK5_vZ8hw3OtG_Z1FYe" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "ub trades",
+         "channel_ids": [
+            "1097204238431555818"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208881657327652914/mhI4Co5tJS_Ug7YBkkhkozprbSv7MHB50GoxAq7MPkKFLYkqj03NgzOAOIHOvM9ONwH0" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "ub charts education",
+         "channel_ids": [
+            "1097204613129707590"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208881861674147850/13qn3lPRMlEu0yy_Dso_GU20tmL-q-0YdOon6LF1z3uxAmpLDvpKuZnfz9fIffH9IHj_" 
+         
+         ]
+        
+      }
+
+      ,{
+         "use_webhook_profile": true,
+         "comment": "cold blooded shiller",
+         "channel_ids": [
+            "1042912323104407624"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208883506554474596/SVdsI8HstRigQFqzu2jYeoX-A8sgwfUHpEfGGg28zjxPojimORe0SMjSrAPDw02KYhyR" 
+         
+         ]
+        
+      }
+      
+      ,{
+         "use_webhook_profile": true,
+         "comment": "official trades",
+         "channel_ids": [
+            "1042912393916850226"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208884108927701062/nt8vK9nEeDSRvHq2cMbGveFwH3tI0X0mGGsj5bG5ZzicjS5AQeimD69O2hSUM1_rmodm" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "cbs sidelined portfolio",
+         "channel_ids": [
+            "1091339765611245658"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208884354315456532/rge8cP9oa7wumgmT7ExW4CrmfcOXzrw3DdQ_i6ej3u7bUOY0ZDGa4BDpLc0yTqbjlxyc" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "cbs stocks",
+         "channel_ids": [
+            "1097206403858432071"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208884548167802941/iD0alc8dAweWLf2_uQ3WE_4Owt3gbxadSOkROsgk0uBNnD1yZTU0WBE53sbpywiD-sf2" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "cbs education",
+         "channel_ids": [
+            "1097206632091504660"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208884735560913056/2ngfXUjLxvjzsxtKwAZPA7R14CH2NINJWOZMY5SMzWIQZHc32mor5HqNtO12e2K6Hy-l" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "cbs threads alts",
+         "channel_ids": [
+            "1097206890842292306"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208884936816201738/kfk43tZW7H_Lfpy0l7dis8G71lO1SGmqfj50nJAxQA5HXIkQO1w11ktAUFLoscLOA-Q8" 
+         
+         ]
+        
+      }
+
+      ,{
+         "use_webhook_profile": true,
+         "comment": "crypto hold challenge",
+         "channel_ids": [
+            "1165280356375732315"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208885158145564722/G_Bi_cMDziW2n8H5oK59DsCWNsQQhuRlrfX8rNaYhhlhl-Lmfs5OrnvFynrQI7pkZx01" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "haven pierre",
+         "channel_ids": [
+            "1042912870117158932"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208886300686417982/LM-1YuLitlT0_l65aLK0UvCy5GYwocPzW1CsfDtSuXZFx-C2AttOvf9PVZfJX2h8FoOH" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "pierre trade ideas",
+         "channel_ids": [
+            "1042912957866184704"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208886522837864458/xP831yykoJvDHYhF5jMMfTqXgqrS6krnS_5Vn6Vn8LUuKnLhD58yILvMTu8n-Uzj1XCl" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "btc eth updates",
+         "channel_ids": [
+            "1097210071315918940"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208886754069848174/Jtr6uABN2lR9vjuKlzs88EF_JykhHeOsOx6wsykfRHu-vQmFuCEm_IB_gD8T-6CQIk92" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "pierre charts",
+         "channel_ids": [
+            "1092901103806447697"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208886981845852270/lFKA6NttPa1oki6W7cPmEGqszedCowY4QTqd-EsA8pwogsO6L5pI7jvGP2So-0Wr48Ib" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "pierre thread alts",
+         "channel_ids": [
+            "1097210451244351568"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208887181633003591/810YZAnCzBxfoJL9IQwWvWY7q9RGqvUzMcSx8eOpzzJNUZxM_uV7wmDrNyuuxCt0hvTB" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "pierre education",
+         "channel_ids": [
+            "1097211045602394312"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208887389695516732/xDT3aVoAwxCLmg3n-c0I4CLRVS_316-AOkdBv_XPijC3w1ddvLqID49l2IlNfae9HX0R" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "rekt proof",
+         "channel_ids": [
+            "1042847397518262424"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208887591680737290/rQIJg-2agdRy9ZkiJmj8mHkMHNMWYzUbbFrEnyQ3_R9fSj4XynzVFhEgyoviDEttnDEu" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "income sharks",
+         "channel_ids": [
+            "1042913190318710854"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208888095915909130/SnRNmpxlvT1VFpiccIUCcwUK7_Q-EeslJ4NWupyQa-JpfQrg0vfQ-16YaNk9Zod3nosm" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "rose premium",
+         "channel_ids": [
+            "1039225121216397332"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208888330285219910/ytz1AChLEd5Op_9h5oeKHe0GOD761X976FuWybrxqf7iJ9LbSg6AHeHnwSe08beZXM5_" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "binance signal vip",
+         "channel_ids": [
+            "1087891076800581772"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208888573206728704/jhCjHRoMbexmZ3ox5amvsCOu3RNslouZ4AJmphckK3RDvZjSk_2oHwNN4KbA7VrL_9-O" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "traders sz",
+         "channel_ids": [
+            "1054370875178221599"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208888804455489576/fq-c7wvPBrOBRf67xqgcv5USjYlStFjKKXNt1_X22HG909wRdoUEO5h85yRTOFayep_J" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "predictum",
+         "channel_ids": [
+            "1091453619645198438"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208889015567261726/EkO9Xb_A0zcJLmsSdYSXZMY359xQPjNgT90t25GAfrUqV8d47s7tUZD0tq7b_zgZF8_b" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "vikings premium",
+         "channel_ids": [
+            "1138334527312384020"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1208889201987420160/BA2B4hSaHgyry58Jtzryujv1yfIvgytE3HKXWNtjH45pQg-CBOa8_JIlYZRsyXqocxQB" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "dr profit crypto",
+         "channel_ids": [
+            "1053326119903965205"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209069578966147122/fni9s5zLWjsHoc8pCn7MX_zl3podjTCbVgk7-7ZvioUyfYJXQseWZxp1oahnxdAYjIS4" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "dr profit arena",
+         "channel_ids": [
+            "1201188407708233768"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209069893375500308/k-3NzAR44WeU3veS6ABNkVT7uMYD_D-Xqk749GCQVUntDjYQeM195XDZHqnZ7O4KZpQ2" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "dr profit",
+         "channel_ids": [
+            "1089929239236710420"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209070082785935411/P6bmhjklNXAfB-V0HQyH6r-Z3KTM6S-WG6dkaMirVWUdvFlgDRcjN5svi5Xb2BIq0NGE" 
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "dr profit arena 1",
+         "channel_ids": [
+            "1201188471671369820"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209070306094743612/c6l6Zz-4N-X3R9EnSpAsnGeO1Omgs_Cm9lDouqBb5heC1mJUn7YgqG00IR7RgFg73UU6" 
+         
+         ]
+        
+      }
+
+      ,{
+         "use_webhook_profile": true,
+         "comment": "crypto coin coach",
+         "channel_ids": [
+            "1089164505558286346"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209070572898750525/wMxex-7RikOtiz0-j4brbk4qLDmOhOMQCrMB_PLbKBFos2bepaTpFoltY-lk4j5oCMLI"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "always win",
+         "channel_ids": [
+            "1089166558670094356"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209070820782116884/i9wqagwJM-jnyja5MziRRKfRyWX6t3dJ6Wis6EN5nLWd3kM40DtbUyg5c_EBikuRkQ3X"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "crypto cove",
+         "channel_ids": [
+            "1089530270883004497"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209071024231022612/4wqtpGFz91sEp_jkEeLVYSU_xN6HxEEMJnP8AS_pHiTSOcwX-KH2PAYzlNTPw2g7Lss9"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "fortune crypto",
+         "channel_ids": [
+            "1089532666803654657"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209071244159488051/LRRtreAXuSm2PsCQb6GgqwrWOdjr5sl3A7FV-giWIOgnNm7ML1NKaAK1WxH5WiLmDY9i"
+         
+         ]
+        
+      }
+
+      ,{
+         "use_webhook_profile": true,
+         "comment": "yo crypto",
+         "channel_ids": [
+            "1113485116132556871"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209071441073541150/xManlQA20RwgeatUsx5RqdHgT6gxquxiT3VV4KlkpJXiMz3aqOoXfgF5HV2QmBF0D34R"
+         
+         ]
+        
+      }
+      
+      ,{
+         "use_webhook_profile": true,
+         "comment": "crypto hounds" ,
+         "channel_ids": [
+            "1147557515324817572"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209071652084777030/Ten-SjBqPH1Bda3urBgFoP2gI-4aQLKBT3Byv-YBC1t5O_fSmpp8FhzxSJj6Ofz00Foa"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "ken updates" ,
+         "channel_ids": [
+            "1100560586451984444"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209072316319801345/1vg3WolnhpLxk5c9cOOwAYD9pYQhurpmWp1Pbi_2IEBchy3rqwp8IrC2vdGnyDnEMICD"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "ken futures" ,
+         "channel_ids": [
+            "1043470157063913522"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209072523770204180/Kybtf4pwQj4GzYyMUjn5V_nfe3N9nF_qKaY-PgrTWxa4ijmY3cnX8mfZOFPlfkBsTDMU"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "ken 2k 20k" ,
+         "channel_ids": [
+            "1100560651870547988"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209072737151090698/0QlsyeWDcJT6Q2sAxc6aXDJSJyHunEIP2lyPDofPfFigsDnuO11_x19jmbgYuffcsxII"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "ken spot" ,
+         "channel_ids": [
+            "1043470476774744074"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209072942655471646/rPkD2AG_t7ZDUcSnSB5HZ2gj2EW5cXvFyDNY7cOsroE3rkbsol0Yzj10xw-BUVixKY9v"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "bertra" ,
+         "channel_ids": [
+            "1047500412426661948"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209073155461619732/5nPLkeRbmXEBwOiCn_gNOlaOsRDu-EknWpqmGKu7cTBrHuMM2qqWEHBOFbF144WVXGir"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "mod trades" ,
+         "channel_ids": [
+            "1047513113966149742"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209073365172887562/zTUHeWbYmUm92mvWIShJXSwMgI4n0_g2-K3jGbMnknxKXq7_x2tmOLfn1N-7oSZ_6bx6"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "waleed" ,
+         "channel_ids": [
+            "1060130969845248001"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209073556709711902/TnOJ38gtcaiTN8g_StEDadqGPR7Y1Ma8_O456HOzCXzekIdCd2Wokh9j0AIPoT8XY4zR"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "crypto guru" ,
+         "channel_ids": [
+            "1067923499143929917"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209073760372658206/mhlwSrqKKSMAw675J7jzuSoTgPqyd2gxPIZ43eRU9Y3B7W4Jmi7IhLAQCvKhU6O7St1p"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "zed" ,
+         "channel_ids": [
+            "1072846530056298496"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209073972285542400/30sr4Bm_DeevKWH6NZl3Fh7TzzIXy-FILKxpumx75lukWbjQz9bEAkXracrm_YSVvrli"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "sunshine" ,
+         "channel_ids": [
+            "1091368314284027924"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209074170936168520/cDBHChVBwxjxrd2fnMuPt6G2BPpERis0OiBslbO7tNuVI1VdpyhNovmNwMiy8vfh-71o"
+         
+         ]
+        
+      }
+      ,{
+         "use_webhook_profile": true,
+         "comment": "chento" ,
+         "channel_ids": [
+            "1100724357824778290"
+         ],
+         "webhook_urls": [
+         "https://discord.com/api/webhooks/1209074391816732763/NMxpmFB5jKH9z_rOz1WQNOr1SDZzNAqtu4RsFieZd_Zr5JaDdnnWOUS_27iKTJS2O_jU"
+         
+         ]
+        
+      }
+
+
+      
+      
+
+
+      
+   ], 
+   "mentions": {
+      "1026446377317830716": [ 
+         {
+            "original": "1042048683958616074", 
+            "comment":"lord",
+            "replaced": "1209667620069056522" 
+         },  
+         {
+            "original": "1042048746743148634", 
+            "comment":"rose",
+            "replaced": "1209667667129008128" 
+         },
+         {
+            "original": "1042052389663932451", 
+            "comment":"future125x",
+            "replaced": "1209667748829863996" 
+         },{
+            "original": "1042044869281058846", 
+            "comment":"johnny",
+            "replaced": "1209667808871456778" 
+         }
+         ,{
+            "original": "1042045057806631032", 
+            "comment":"eliz",
+            "replaced": "1209667840421134336" 
+         }  ,{
+            "original": "1042047726680027166", 
+            "comment":"michele",
+            "replaced": "1209667886084395009" 
+         }
+         ,{
+            "original": "1042045803306422352", 
+            "comment":"rezeh",
+            "replaced": "1209667931143933952" 
+         }
+         ,{
+            "original": "1042045702525698099", 
+            "comment":"woods",
+            "replaced": "1209667966732476437" 
+         }
+         ,{
+            "original": "1042048192302305280", 
+            "comment":"rego",
+            "replaced": "1209667995840942131" 
+         }
+         ,{
+            "original": "1042047880933953546", 
+            "comment":"pats",
+            "replaced": "1209668025494540348" 
+         } ,{
+            "original": "1042046694461821039", 
+            "comment":"hbj",
+            "replaced": "1209668056666873866" 
+         }
+         ,{
+            "original": "1042047952581054505", 
+            "comment":"impulse",
+            "replaced": "1209668132797554739" 
+         }
+         ,{
+            "original": "1046054066972790854", 
+            "comment":"tareeq",
+            "replaced": "1209668099574468708" 
+         }
+         ,{
+            "original": "1073908659668652093", 
+            "comment":"cryptoguru",
+            "replaced": "1209668179173969920" 
+         }
+         ,{
+            "original": "1053350459018063892", 
+            "comment":"drprofit",
+            "replaced": "1209668217207787631" 
+         }
+         ,{
+            "original": "1097592771965091993", 
+            "comment":"guruwwg",
+            "replaced": "1209972826493423616" 
+         }
+         ,{
+            "original": "1133410912024412181", 
+            "comment":"degen",
+            "replaced": "1209668252419104838" 
+         }
+         ,{
+            "original": "1180269206068015234", 
+            "comment":"nick",
+            "replaced": "1209668281770975352" 
+         }
+         ,{
+            "original": "1164126522429411358", 
+            "comment":"cry art",
+            "replaced": "1209668359285641216" 
+         }
+         ,{
+            "original": "1180271842557186098", 
+            "comment":"impulse and db",
+            "replaced": "1209668396933845052" 
+         }
+         ,{
+            "original": "1168936108214714471", 
+            "comment":"special",
+            "replaced": "1209668488352899122" 
+         }
+         ,{
+            "original": "1087003461184397473", 
+            "comment":"pocky",
+            "replaced": "1209668528110575667" 
+         }
+         ,{
+            "original": "1087003354057674782", 
+            "comment":"dracodl",
+            "replaced": "1209668573966901309" 
+         }
+         ,{
+            "original": "1180275384831455352", 
+            "comment":"bryce",
+            "replaced": "1209668610235179008" 
+         }
+         ,{
+            "original": "1172188616273973258", 
+            "comment":"cypher",
+            "replaced": "1209668640509534208" 
+         }
+         ,{
+            "original": "1180276346535030874", 
+            "comment":"muzza",
+            "replaced": "1209668669832040458" 
+         }
+         ,{
+            "original": "1180268193567223908", 
+            "comment":"mouse",
+            "replaced": "1209668725645512715" 
+         }
+         ,{
+            "original": "1180268284881416263", 
+            "comment":"blaw",
+            "replaced": "1209668771334324284" 
+         }
+         
+      ]
+       
+   },
+   "blacklist": ["papix", "duck", "crypto"],
+
+   "filterWords":{"bro": "bruh",
+        "lol": "lmao"}
+}
