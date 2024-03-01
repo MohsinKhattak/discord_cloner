@@ -15,6 +15,17 @@
       },
       {
          "use_webhook_profile": true,
+         "comment": "Profits",
+         "channel_ids": [
+            "1026591339229483058"
+         ],
+         "webhook_urls": [
+            "https://discord.com/api/webhooks/1199315928295428236/XByTAXvhr6CNl00VeqIkaIbto5xTwTraIwOAF51nEZSxpsQpJMvSLPB8F0xQBP4F2g_G" 
+         ]
+        
+      },
+      {
+         "use_webhook_profile": true,
          "comment": "Active Futures",
          "channel_ids": [
             "1026446663746867240"
